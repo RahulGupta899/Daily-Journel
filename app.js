@@ -14,7 +14,7 @@ app.listen(3000, function() {
   console.log("Server started on port 3000");
 });
 
-mongoose.connect("mongodb+srv://admin-Rahul:RahulPRO2015@cluster0.iqtk2.mongodb.net/blogDB",{useNewUrlParser:true});
+mongoose.connect("mongodb+srv://<username:password>@cluster0.iqtk2.mongodb.net/blogDB",{useNewUrlParser:true});
 
 const postSchema = new mongoose.Schema({
   title:String,
