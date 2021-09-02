@@ -1,7 +1,8 @@
 # Daily-Journel
 An app where you can track your daily actions.
 
-# Access App : https://daily-journel-10475.herokuapp.com/
+# Access App :
+  https://daily-journel-10475.herokuapp.com/
   Note: App is linked with database, avoid publishing unnecessay posts. 
   
 # Tech used
